@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The Challange](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,16 +24,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 To build QR Code component and get as close to the design as possible.
 
-### Screenshot
+### Screenshots
 
+Desktop:
 ![](./images/screenshot_desktop.jpg)
 
+Mobile:
 ![](./images/screenshot_mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://herrdeacon.github.io/FEM_QRCodeComponent/default.html)
+- Solution URL: https://www.frontendmentor.io/solutions/qr-component-code-using-css-grid-efbG521Mtf
+- Live Site URL: https://herrdeacon.github.io/FEM_QRCodeComponent/default.html
 
 ## My process
 
