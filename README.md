@@ -33,7 +33,7 @@ To build QR Code component and get as close to the design as possible.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://herrdeacon.github.io/FEM_QRCodeComponent/default.html)
 
 ## My process
 
